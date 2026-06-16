@@ -16,3 +16,8 @@ scanner.py
 
 ## Disclaimer
 Use only on networks and systems you own or have explicit permission to test.
+
+Name:-S.Pranav
+intern ID:-CITS3001
+Domain:-cybersecurity and ethical hacking 
+
